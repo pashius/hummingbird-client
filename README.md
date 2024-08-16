@@ -90,7 +90,7 @@ Note: If your go path is not set in your system path, the binary can be run dire
 
 ### Option 2: Use pre-built binary
 
-Download the latest release from [here](https://github.com/lightlink-network/hummingbird-client/releases)
+Download the latest release from [here](https://github.com/lightlink-network/hummingbird-client/releases).
 
 ## Configuration
 
